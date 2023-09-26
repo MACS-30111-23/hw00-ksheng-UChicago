@@ -16,6 +16,8 @@ _Here is a list of cities that I lived in:_
 Here is a picture of Fukuoka, JP (click to see where it is in the world)
 [![Fukuoka Picture](fukuoka_pic.jpg)](https://www.google.com/maps/place/Fukuoka,+Japan/@33.6501075,129.9342976,10z/data=!3m1!4b1!4m6!3m5!1s0x3541eda1e9848429:0xf60a729936398783!8m2!3d33.5901838!4d130.4016888!16zL20vMGdxa2Q?entry=ttu)
 
+You can find more details using the [website](https://en.japantravel.com/fukuoka) here.
+
 ## Workflow:
 1. Created Headers using "#" and "##"
 2. Emphasis using "_ _" and "* *"
