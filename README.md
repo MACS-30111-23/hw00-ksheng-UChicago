@@ -4,8 +4,8 @@
 # Hello, my name is Kuang Sheng!
 ## Very excited about this assignment~
 
-__I am originally from Shanghai__
-_Here is a list of cities that I lived in_
+__I am originally from Shanghai.__
+_Here is a list of cities that I lived in:_
 
 1. Shanghai, CN
 2. Seattle, WA
@@ -16,7 +16,12 @@ _Here is a list of cities that I lived in_
 Here is a picture of Fukuoka, JP (click to see where it is in the world)
 [![Fukuoka Picture](fukuoka_pic.jpg)](https://www.google.com/maps/place/Fukuoka,+Japan/@33.6501075,129.9342976,10z/data=!3m1!4b1!4m6!3m5!1s0x3541eda1e9848429:0xf60a729936398783!8m2!3d33.5901838!4d130.4016888!16zL20vMGdxa2Q?entry=ttu)
 
-Learning: Experience...
+## Workflow:
+1. Created Headers using "#" and "##"
+2. Emphasis using "_ _" and "* *"
+3. Created a list of the cities that I lived in
+4. Combined a link with an image:
+5. "Review Assignment Due Date" at the beginning of the assignment showed a great example of how the link and picture can be connected and work together. That is a new markdown functionality I learned.
 
 
 Edit this README file to include a brief biography of yourself. Your README should include the following elements:
